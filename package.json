@@ -1,0 +1,15 @@
+{
+  "name": "pawel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pawel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dir-tree-creator": "^4.0.0",
+    "recursive-readdir": "^2.2.1"
+  }
+}
